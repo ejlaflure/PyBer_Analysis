@@ -19,3 +19,13 @@ Steps and Deliverables:
   - The percent of total fares.
   - The percent of total rides.
   - The percent of total drivers.
+
+## Project Summary
+
+## Challenge Overview
+This new assignment for you and Omar consists of three parts: two additional technical analyses and a written report that delivers your results to the CEO. To summarize, you will submit the following deliverables:
+- Technical Analysis Deliverable 1: A DataFrame that summarizes the key metrics for the ride-sharing data by 
+- Technical Analysis Deliverable 2: A multiple-line chart, with one line for each city type, that shows the sum of the fares for each week.
+- Delivering Results: A written report of your results, saved in a README.md document on your GitHub repository.
+
+## Challenge Summary
