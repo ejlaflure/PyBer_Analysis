@@ -21,6 +21,7 @@ Steps and Deliverables:
 
 ## Project Summary
 Data Visualizations for PyBer Project:
+
 ![Fig1](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig1.png)
 ![Fig2](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig2.png)
 ![Fig3](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig3.png)
