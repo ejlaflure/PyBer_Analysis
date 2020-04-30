@@ -5,7 +5,6 @@ Analyze and visualize ride-sharing data using the capabilities of Python, Pandas
 Steps and Deliverables:
 - Import your data into a Pandas DataFrame.
 - Merge your DataFrames.
-- Create a bubble chart that showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for each city type, including urban, suburban, and rural.
 - Create a bubble chart that showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for three city types.
 - Determine the mean, median, and mode for the following:
   - The total number of rides for each city type.
@@ -21,6 +20,8 @@ Steps and Deliverables:
   - The percent of total drivers.
 
 ## Project Summary
+Data Visualizations for PyBer Project:
+
 
 ## Challenge Overview
 This new assignment for you and Omar consists of three parts: two additional technical analyses and a written report that delivers your results to the CEO. To summarize, you will submit the following deliverables:
