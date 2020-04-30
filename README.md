@@ -21,7 +21,13 @@ Steps and Deliverables:
 
 ## Project Summary
 Data Visualizations for PyBer Project:
-
+![Fig1](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig1.png)
+![Fig2](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig2.png)
+![Fig3](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig3.png)
+![Fig4](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig4.png)
+![Fig5](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig5.png)
+![Fig6](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig6.png)
+![Fig7](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig7.png)
 
 ## Challenge Overview
 This new assignment for you and Omar consists of three parts: two additional technical analyses and a written report that delivers your results to the CEO. To summarize, you will submit the following deliverables:
