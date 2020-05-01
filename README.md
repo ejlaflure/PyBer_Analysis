@@ -52,9 +52,9 @@ To perform this task, I utilized the capabilities of Python, Pandas and Matplotl
 ![Fig8](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig8.png)
 
 ### Summary
-The table above shows a problematic trend that needs to be addessed. In urban cities, there are too many drivers for the avaliable riders in that area. To increase revenue along with rinder and driver statisfaction, urban drivers should be adivised to operate in suburban and rural areas nearby. This will better distribute the drivers according to demand. 
+The table above shows a problematic trend that needs to be addessed. In urban cities, there are too many drivers for the avaliable riders in that area. To increase revenue along with rider and driver statisfaction, urban drivers should be adivised to operate in suburban and rural areas nearby. This will better distribute the drivers according to demand. 
 
-The graph above shows that the end of Febuary is a times where more revenue is generated in all areas. Suburban and rurel areas are more consistent in March while urban areas are much more volitle.  In the end of March and beginning of April, some suburban drivers sould operate in rurel areas nearby to help accomidate the higher demand at that time. 
+The graph above shows that the end of Febuary is a times where more revenue is generated in all areas. Suburban and rurel areas are more consistent in March while urban areas are much more volitle.  During the end of March and beginning of April, some suburban drivers sould operate in rurel areas nearby to help accomidate the higher demand. 
 
 ## Challenges Encountered and Overcome
 
@@ -62,26 +62,36 @@ The graph above shows that the end of Febuary is a times where more revenue is g
 
 * Programming
 
+Issue with the resampling method.
+
 * Data analysis
 
 * Graphing, etc
 
+Graphing table to generate image. 
+
 ### Technical Analyses Used
+
+Researched resampling method and pandas table generation capabilities. 
 
 ## Recommendations and Next Steps
 
 ### Recommendations for Future Analysis
 
-Average fare per ride and driver over the same time period. This will confirm if the the change in revenue is based on increased fare at that time or increased business.
+Performing analysis that identify issues in meeting demand is most important for beter utilizing divers and increasing revenue. 
 
 ### Additional Analysis 1
 
 * Description of Approach
+Average fare per ride and driver over the same time period. This will confirm if the the change in revenue is based on increased fare at that time or increased business. 
 
 * Technical Steps
+Overlay Average fare per ride and driver on the y-axis and have time on x axis.
 
 ### Additional Analysis 2
 
 * Description of Approach
+Overlay averade riders, drivers and fares per city to see if there are particulare cities that have issues with demand or lack there of.
 
 * Technical Steps
+Use unique fuction to see how many cities there are. This will give an idea of if this graph is useful. We would use a multi layered bar chart for this analysis.
