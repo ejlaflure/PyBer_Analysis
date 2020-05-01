@@ -1,7 +1,7 @@
-# PyBer_Analysis
+# PyBer Analysis
 Analyze and visualize ride-sharing data using the capabilities of Python, Pandas and Matplotlib within Jupyter Notebook.
 
-## Project Overview
+## Module Project Overview
 Steps and Deliverables:
 - Import your data into a Pandas DataFrame.
 - Merge your DataFrames.
@@ -19,7 +19,7 @@ Steps and Deliverables:
   - The percent of total rides.
   - The percent of total drivers.
 
-## Project Summary
+## Module Project Summary
 Data Visualizations for PyBer Project:
 
 ![Fig1](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig1.png)
@@ -36,4 +36,46 @@ This new assignment for you and Omar consists of three parts: two additional tec
 - Technical Analysis Deliverable 2: A multiple-line chart, with one line for each city type, that shows the sum of the fares for each week.
 - Delivering Results: A written report of your results, saved in a README.md document on your GitHub repository.
 
-## Challenge Summary
+# PyBer Analysis Report
+
+## Background and Results
+
+### Purpose
+  Analyzing PyBer's vast collection of data, will help us improve access and determine the affordability of our rideshare services in underserved neighborhoods. This is necessary for identifying valuable investment opportunities for our company moving forward. 
+
+### Technical Analysis
+  To perform this task, I utilized the capabilities of Python, Pandas and Matplotlib. This enabled efficient analysis of PyBer’s raw data by quickly sorting and comparing multiple variables and creating visualizations to outline the treads of our company’s performance and operations. 
+
+### Results
+
+
+
+### Summary
+
+## Challenges Encountered and Overcome
+
+### Challenges and Difficulties Encountered
+
+* Programming
+
+* Data analysis
+
+* Graphing, etc
+
+### Technical Analyses Used
+
+## Recommendations and Next Steps
+
+### Recommendations for Future Analysis
+
+### Additional Analysis 1
+
+* Description of Approach
+
+* Technical Steps
+
+### Additional Analysis 2
+
+* Description of Approach
+
+* Technical Steps
