@@ -41,10 +41,14 @@ This new assignment for you and Omar consists of three parts: two additional tec
 ## Background and Results
 
 ### Purpose
+  Analyzing PyBer's vast collection of data, will help us improve access and determine the affordability of our rideshare services in underserved neighborhoods. This is necessary for identifying valuable investment opportunities for our company moving forward. 
 
 ### Technical Analysis
+  To perform this task, I utilized the capabilities of Python, Pandas and Matplotlib. This enabled efficient analysis of PyBer’s raw data by quickly sorting and comparing multiple variables and creating visualizations to outline the treads of our company’s performance and operations. 
 
 ### Results
+
+
 
 ### Summary
 
