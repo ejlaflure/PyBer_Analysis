@@ -41,16 +41,20 @@ This new assignment for you and Omar consists of three parts: two additional tec
 ## Background and Results
 
 ### Purpose
-  Analyzing PyBer's vast collection of data, will help us improve access and determine the affordability of our rideshare services in underserved neighborhoods. This is necessary for identifying valuable investment opportunities for our company moving forward. 
+Analyzing PyBer's vast collection of data, will help us improve access and determine the affordability of our rideshare services in underserved neighborhoods. This is necessary for identifying valuable investment opportunities for our company moving forward. 
 
 ### Technical Analysis
-  To perform this task, I utilized the capabilities of Python, Pandas and Matplotlib. This enabled efficient analysis of PyBer’s raw data by quickly sorting and comparing multiple variables and creating visualizations to outline the treads of our company’s performance and operations. 
+To perform this task, I utilized the capabilities of Python, Pandas and Matplotlib. This enabled efficient analysis of PyBer’s raw data by quickly sorting and comparing multiple variables and creating visualizations to outline the treads of our company’s performance and operations. 
 
 ### Results
 
-
+![Table1](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Table1.png)
+![Fig8](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig8.png)
 
 ### Summary
+The table above shows a problematic trend that needs to be addessed. In urban cities, there are too many drivers for the avaliable riders in that area. To increase revenue along with rinder and driver statisfaction, urban drivers should be adivised to operate in suburban and rural areas nearby. This will better distribute the drivers according to demand. 
+
+The graph above shows that the end of Febuary is a times where more revenue is generated in all areas. Suburban and rurel areas are more consistent in March while urban areas are much more volitle.  In the end of March and beginning of April, some suburban drivers sould operate in rurel areas nearby to help accomidate the higher demand at that time. 
 
 ## Challenges Encountered and Overcome
 
@@ -67,6 +71,8 @@ This new assignment for you and Omar consists of three parts: two additional tec
 ## Recommendations and Next Steps
 
 ### Recommendations for Future Analysis
+
+Average fare per ride and driver over the same time period. This will confirm if the the change in revenue is based on increased fare at that time or increased business.
 
 ### Additional Analysis 1
 
