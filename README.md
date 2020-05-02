@@ -95,11 +95,16 @@ Further analysis needs to be performed to more thoroughly identify issues in mee
 
 * Description of Approach
 
-The first additional analysis that should be performed to meet this goal is a visualization of average fare per ride and average fare per driver plotted over the same time period as the Total Fare by City Type line graph. This will complement that graph and will allow us to determine if the change in revenue at different periods is based on increased fare at that time or increased business. 
+The first additional analysis that should be performed to meet this goal is a visualization comparing total fares over time to total rides and total drivers plotted over the same time period. This will complement that graph and will allow us to determine if the change in revenue at different periods is based on increased fare at that time or increased business.
 
 * Technical Steps
 
-To create this graph, two new columns need to be created with the average average fare per ride and average fare per driver calulations. A pivot chart will then need to be created along with new weekly bins, just like when created the Total Fare by City Type graph. The creation of the graph at that point will also be the same as the Total Fare by City Type, but the y-axis will overlay Average fare per ride and driver. Below is the code nessisary to accomplish this task. 
+To create this graph, a pivot chart will then need to be created along with new weekly bins, just like when created the Total Fare by City Type graph for number of rides and number of drivers. The creation of the graph at that point will also be the same as the Total Fare by City Type, but created for total rides and total drivers instead. Below is the code necessary to accomplish this task along with the results.
+
+![table_creation](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/additional_analysis1.PNG)
+![Fig9](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig9.png)
+![Fig10](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig10.png)
+![Fig11](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig11.png)
 
 ### Additional Analysis 2
 
