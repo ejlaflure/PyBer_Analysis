@@ -89,17 +89,17 @@ I researched panda's matplotlib's table creation capabilities and found that a t
 
 ### Recommendations for Future Analysis
 
-Performing analysis that identify issues in meeting demand is most important for beter utilizing divers and increasing revenue. 
+Further analysis needs to be performed to more thoroughly identify issues in meeting ride demand.  This analysis is important for better utilizing divers and increasing revenue. 
 
 ### Additional Analysis 1
 
 * Description of Approach
 
-Average fare per ride and driver over the same time period. This will confirm if the the change in revenue is based on increased fare at that time or increased business. 
+The first additional analysis that should be performed to meet this goal is a visualization of average fare per ride and average fare per driver plotted over the same time period as the Total Fare by City Type line graph. This will complement that graph and will allow us to determine if the change in revenue at different periods is based on increased fare at that time or increased business. 
 
 * Technical Steps
 
-Overlay Average fare per ride and driver on the y-axis and have time on x axis.
+To create this graph, two new columns need to be created with the average average fare per ride and average fare per driver calulations. A pivot chart will then need to be created along with new weekly bins, just like when created the Total Fare by City Type graph. The creation of the graph at that point will also be the same as the Total Fare by City Type, but the y-axis will overlay Average fare per ride and driver. Below is the code nessisary to accomplish this task. 
 
 ### Additional Analysis 2
 
