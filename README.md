@@ -83,15 +83,19 @@ Performing analysis that identify issues in meeting demand is most important for
 ### Additional Analysis 1
 
 * Description of Approach
+
 Average fare per ride and driver over the same time period. This will confirm if the the change in revenue is based on increased fare at that time or increased business. 
 
 * Technical Steps
+
 Overlay Average fare per ride and driver on the y-axis and have time on x axis.
 
 ### Additional Analysis 2
 
 * Description of Approach
+
 Overlay averade riders, drivers and fares per city to see if there are particulare cities that have issues with demand or lack there of.
 
 * Technical Steps
+
 Use unique fuction to see how many cities there are. This will give an idea of if this graph is useful. We would use a multi layered bar chart for this analysis.
