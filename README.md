@@ -101,7 +101,7 @@ The first additional analysis that should be performed to meet this goal is a vi
 
 To create this graph, a pivot chart will then need to be created along with new weekly bins, just like when created the Total Fare by City Type graph for number of rides and number of drivers. The creation of the graph at that point will also be the same as the Total Fare by City Type, but created for total rides and total drivers instead. Below is the code necessary to accomplish this task along with the results.
 
-![table_creation](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/additional_analysis1.PNG)
+![additional_analysis1](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/additional_analysis1.PNG)
 
 * Results
 
@@ -121,10 +121,12 @@ The second additional analysis that needs to be performed is an overlay of avera
 
 To create this new plot, the groupby function will be used to sort data based on cities. We will then use a multi-layered bar chart for visualization of this analysis. Below is the code necessary to accomplish this task along with the results.
 
-
+![additional_analysis2](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/additional_analysis2.PNG)
 
 * Results
 
+![Fig12](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig12.png)
 
+Total rides is not as useful as I would have hoped in this analysis, but comparing Total Drivers to Total Fare for each city is very useful to find the specific cities that have an over saturation of drivers for the demand.
 
 
