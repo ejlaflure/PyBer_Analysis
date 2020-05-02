@@ -115,8 +115,16 @@ Total fares and rides show a direct correlation confirming that the increased re
 
 * Description of Approach
 
-Overlay averade riders, drivers and fares per city to see if there are particulare cities that have issues with demand or lack there of.
+The second additional analysis that needs to be performed is an overlay of average riders, drivers and fares per city. This is an analysis necessary to establish if there are particular cities that have a history of high demand or low demand vs sufficient drivers.
 
 * Technical Steps
 
-Use groupby fuction to sort data based on citys. We would use a multi layered bar chart for this analysis.
+To create this new plot, the groupby function will be used to sort data based on cities. We will then use a multi-layered bar chart for visualization of this analysis. Below is the code necessary to accomplish this task along with the results.
+
+
+
+* Results
+
+
+
+
