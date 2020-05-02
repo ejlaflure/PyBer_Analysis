@@ -102,11 +102,12 @@ The first additional analysis that should be performed to meet this goal is a vi
 To create this graph, a pivot chart will then need to be created along with new weekly bins, just like when created the Total Fare by City Type graph for number of rides and number of drivers. The creation of the graph at that point will also be the same as the Total Fare by City Type, but created for total rides and total drivers instead. Below is the code necessary to accomplish this task along with the results.
 
 ![table_creation](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/additional_analysis1.PNG)
+
+* Results
+
 ![Fig9](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig9.png)
 ![Fig10](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig10.png)
 ![Fig11](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig11.png)
-
-* Results
 
 Total fares and rides show a direct correlation confirming that the increased revenue is from increased usage, but the total drivers are far more sporadic and to not directly relate. This shows that the amount of drivers is not related to demand in the area.
 
