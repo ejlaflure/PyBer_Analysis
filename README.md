@@ -65,11 +65,11 @@ The graph above shows that the end of Febuary is a times where more revenue is g
 
 * Programming
 
-Issue with the resampling method.
+While sorting the data to create the Total Fare by City Type graph, I ran into an issue with the resampling method. This method sorts datetime data into bins based the chosen date or time type. For a graph encompassing four months, converting the data to weekly bins was necessary to have proper amount of data points for the graph. During this programing process, the resampling method was not operating as I expected it would. To overcome this issue, I researched and discussed the issue with my colleagues. Through this, I found that the issue was my index was not set to the data type datetime, which is necessary for the resampling method to operate properly. Below is the code I created to rectify this problem. 
 
-* Data analysis
+![datetime_index](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/datetime_index.PNG)
 
-* Graphing, etc
+* Graphing
 
 Graphing table to generate image. 
 
