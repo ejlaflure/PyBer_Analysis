@@ -106,6 +106,10 @@ To create this graph, a pivot chart will then need to be created along with new 
 ![Fig10](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig10.png)
 ![Fig11](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/Fig11.png)
 
+* Results
+
+Total fares and rides show a direct correlation confirming that the increased revenue is from increased usage, but the total drivers are far more sporadic and to not directly relate. This shows that the amount of drivers is not related to demand in the area.
+
 ### Additional Analysis 2
 
 * Description of Approach
@@ -114,4 +118,4 @@ Overlay averade riders, drivers and fares per city to see if there are particula
 
 * Technical Steps
 
-Use unique fuction to see how many cities there are. This will give an idea of if this graph is useful. We would use a multi layered bar chart for this analysis.
+Use groupby fuction to sort data based on citys. We would use a multi layered bar chart for this analysis.
