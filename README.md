@@ -44,9 +44,10 @@ This new assignment for you and Omar consists of three parts: two additional tec
 Analyzing PyBer's vast collection of data, will help us improve access and determine the affordability of our rideshare services in underserved neighborhoods. This is necessary for identifying valuable investment opportunities for our company moving forward. 
 
 ### Technical Analysis
-To perform this task, I utilized the capabilities of Python, Pandas and Matplotlib. This enabled efficient analysis of PyBer’s raw data by quickly sorting and comparing multiple variables and creating visualizations to outline the treads of our company’s performance and operations. Below are examples of the code necessary to mean fully compare the data and create visualizations.
+To perform this task, I utilized the capabilities of Python, Pandas and Matplotlib. This enabled efficient analysis of PyBer’s raw data by quickly sorting and comparing multiple variables and creating visualizations to outline the treads of our company’s performance and operations. Below are examples of the code necessary to meaningfully compare the data and create visualizations.
 
-
+![assemble_dataframe](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/assemble_dataframe.PNG)
+![linegraph_creation](https://github.com/ejlaflure/PyBer_Analysis/blob/master/Analysis/linegraph_creation.PNG)
 
 ### Results
 
